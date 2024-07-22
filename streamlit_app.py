@@ -1,4 +1,5 @@
 import streamlit as st
+pip install streamlit-folium
 
 st.title("🎈 My new app")
 st.write(
